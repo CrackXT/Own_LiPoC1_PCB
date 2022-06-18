@@ -4,9 +4,9 @@ PCB files for a LiPo Cell port on a separate board
 
 # Description
 
-Compatible with LiPo cell type only!
-
 This is an external port board that allows you to mount the wire from LiPo cell and thus have better connection and mounting options in your project or case.
+
+Including the possibility of cable strain relief using cable ties!
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
