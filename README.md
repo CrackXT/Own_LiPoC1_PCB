@@ -8,6 +8,10 @@ This is an external port board that allows you to mount the wire from LiPo cell 
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
+# Serie
+
+- .pro
+
 # Layout
 
 Top
