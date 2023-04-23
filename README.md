@@ -23,6 +23,8 @@ Bottom
 Routing/Dimensions(inch)
 ![LiPo1C_v2 0](https://user-images.githubusercontent.com/88975406/204136492-70ccf65d-b0dc-43eb-b3ae-c3ad64a0e4a3.png)
 
+Schematic -> Schematic as .pdf at the top of the page
+
 # License
 
 Open hardware, use it, mod it, whatever you want, feel free...
